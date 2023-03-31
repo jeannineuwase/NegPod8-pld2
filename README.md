@@ -1,0 +1,3 @@
+Our mission focus for this trimester is Healthcare, and our project is a Doctor appointment Application. We trust that this project will assist governments and individuals in the domain of their healthcare by improving accessibility to qualified doctors. The app will function as follows. The individual will see a research bar where to type the kind of doctor he needs to see, and on the other hand, he will be asked to know if he wants to go to a clinic or polyclinic, or a hospital. 
+After choosing, the app will display the names and locations of the doctors from the nearest to the furthest hospital.
+In the end, the user will save time and get the proper treatment with fewer problems. 
