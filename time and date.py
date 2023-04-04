@@ -4,7 +4,7 @@ options = ('Mon' , 'Tue' , 'Wed' , 'Thur' , 'Fri')
 
 while True
 print()
-print('*OPTIONS*')
+print('**OPTIONS**')
 print('Mon = Monday')
 print('Tue = Tuesday')
 print('Wed = Wednesday')
@@ -20,4 +20,3 @@ if user_input in options:
     else:
         print()
         print('OPTION NOT AVAILABLE')
-        
