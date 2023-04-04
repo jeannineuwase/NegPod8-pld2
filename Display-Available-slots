@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+print("              ")
+print(" Availability ")
+print("              ")
+Availability= {'Office hours' : '08:00 A.M - 3 P.M',
+               'Emmergency hours' : '3 PM - 10 PM',
+               'Non possible hours'  : '11 P.M - 7 A.M',
